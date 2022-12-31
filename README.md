@@ -1,2 +1,2 @@
-# Javascript-Fetch-and-Data-Filter
-Javascript - Fetch and Data Filter
+# Javascript Fetch and DataFilter
+Javascript - Fetch and DataFilter
